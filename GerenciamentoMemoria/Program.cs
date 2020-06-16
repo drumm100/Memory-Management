@@ -13,7 +13,7 @@ namespace GerenciamentoMemoria
             Console.WriteLine("T2 - SISOP");
             
             string path = Directory.GetCurrentDirectory();
-            string[] instructions = System.IO.File.ReadAllLines(path.Split("bin")[0] +"instructions.txt");
+            string[] instructions = System.IO.File.ReadAllLines(path.Split("bin")[0] +"/GerenciamentoMemoria/"+"instructions.txt");
             
             Console.WriteLine("Memória 2^n. Informe o n para definir tamanho da memória principal.\n");
             string memorySize = Console.ReadLine();

@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcelo Drumm\\Documents\\Faculdade\\SO\\Memory-Management\\GerenciamentoMemoria\\GerenciamentoMemoria.csproj": {}
+    "/home/user/Memory-Management/GerenciamentoMemoria/GerenciamentoMemoria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcelo Drumm\\Documents\\Faculdade\\SO\\Memory-Management\\GerenciamentoMemoria\\GerenciamentoMemoria.csproj": {
+    "/home/user/Memory-Management/GerenciamentoMemoria/GerenciamentoMemoria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcelo Drumm\\Documents\\Faculdade\\SO\\Memory-Management\\GerenciamentoMemoria\\GerenciamentoMemoria.csproj",
+        "projectUniqueName": "/home/user/Memory-Management/GerenciamentoMemoria/GerenciamentoMemoria.csproj",
         "projectName": "GerenciamentoMemoria",
-        "projectPath": "C:\\Users\\Marcelo Drumm\\Documents\\Faculdade\\SO\\Memory-Management\\GerenciamentoMemoria\\GerenciamentoMemoria.csproj",
-        "packagesPath": "C:\\Users\\Marcelo Drumm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcelo Drumm\\Documents\\Faculdade\\SO\\Memory-Management\\GerenciamentoMemoria\\obj\\",
+        "projectPath": "/home/user/Memory-Management/GerenciamentoMemoria/GerenciamentoMemoria.csproj",
+        "packagesPath": "/home/user/.nuget/packages/",
+        "outputPath": "/home/user/Memory-Management/GerenciamentoMemoria/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Marcelo Drumm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/user/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
       }
     }

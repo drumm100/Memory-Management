@@ -1,26 +1,39 @@
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\GerenciamentoMemoria\GerenciamentoMemoria\bin\Debug\netcoreapp3.1\GerenciamentoMemoria.exe
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\GerenciamentoMemoria\GerenciamentoMemoria\bin\Debug\netcoreapp3.1\GerenciamentoMemoria.deps.json
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\GerenciamentoMemoria\GerenciamentoMemoria\bin\Debug\netcoreapp3.1\GerenciamentoMemoria.runtimeconfig.json
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\GerenciamentoMemoria\GerenciamentoMemoria\bin\Debug\netcoreapp3.1\GerenciamentoMemoria.runtimeconfig.dev.json
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\GerenciamentoMemoria\GerenciamentoMemoria\bin\Debug\netcoreapp3.1\GerenciamentoMemoria.dll
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\GerenciamentoMemoria\GerenciamentoMemoria\bin\Debug\netcoreapp3.1\GerenciamentoMemoria.pdb
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\GerenciamentoMemoria\GerenciamentoMemoria\obj\Debug\netcoreapp3.1\GerenciamentoMemoria.csprojAssemblyReference.cache
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\GerenciamentoMemoria\GerenciamentoMemoria\obj\Debug\netcoreapp3.1\GerenciamentoMemoria.csproj.CoreCompileInputs.cache
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\GerenciamentoMemoria\GerenciamentoMemoria\obj\Debug\netcoreapp3.1\GerenciamentoMemoria.AssemblyInfoInputs.cache
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\GerenciamentoMemoria\GerenciamentoMemoria\obj\Debug\netcoreapp3.1\GerenciamentoMemoria.AssemblyInfo.cs
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\GerenciamentoMemoria\GerenciamentoMemoria\obj\Debug\netcoreapp3.1\GerenciamentoMemoria.dll
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\GerenciamentoMemoria\GerenciamentoMemoria\obj\Debug\netcoreapp3.1\GerenciamentoMemoria.pdb
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\GerenciamentoMemoria\GerenciamentoMemoria\obj\Debug\netcoreapp3.1\GerenciamentoMemoria.genruntimeconfig.cache
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\Memory-Management\GerenciamentoMemoria\bin\Debug\netcoreapp3.1\GerenciamentoMemoria.exe
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\Memory-Management\GerenciamentoMemoria\bin\Debug\netcoreapp3.1\GerenciamentoMemoria.deps.json
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\Memory-Management\GerenciamentoMemoria\bin\Debug\netcoreapp3.1\GerenciamentoMemoria.runtimeconfig.json
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\Memory-Management\GerenciamentoMemoria\bin\Debug\netcoreapp3.1\GerenciamentoMemoria.runtimeconfig.dev.json
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\Memory-Management\GerenciamentoMemoria\bin\Debug\netcoreapp3.1\GerenciamentoMemoria.dll
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\Memory-Management\GerenciamentoMemoria\bin\Debug\netcoreapp3.1\GerenciamentoMemoria.pdb
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\Memory-Management\GerenciamentoMemoria\obj\Debug\netcoreapp3.1\GerenciamentoMemoria.csprojAssemblyReference.cache
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\Memory-Management\GerenciamentoMemoria\obj\Debug\netcoreapp3.1\GerenciamentoMemoria.csproj.CoreCompileInputs.cache
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\Memory-Management\GerenciamentoMemoria\obj\Debug\netcoreapp3.1\GerenciamentoMemoria.AssemblyInfoInputs.cache
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\Memory-Management\GerenciamentoMemoria\obj\Debug\netcoreapp3.1\GerenciamentoMemoria.AssemblyInfo.cs
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\Memory-Management\GerenciamentoMemoria\obj\Debug\netcoreapp3.1\GerenciamentoMemoria.dll
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\Memory-Management\GerenciamentoMemoria\obj\Debug\netcoreapp3.1\GerenciamentoMemoria.pdb
-C:\Users\Marcelo Drumm\Documents\Faculdade\SO\Memory-Management\GerenciamentoMemoria\obj\Debug\netcoreapp3.1\GerenciamentoMemoria.genruntimeconfig.cache
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/GerenciamentoMemoria/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria.exe
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/GerenciamentoMemoria/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria.deps.json
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/GerenciamentoMemoria/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria.runtimeconfig.json
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/GerenciamentoMemoria/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria.runtimeconfig.dev.json
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/GerenciamentoMemoria/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria.dll
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/GerenciamentoMemoria/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria.pdb
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/GerenciamentoMemoria/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.csprojAssemblyReference.cache
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/GerenciamentoMemoria/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.csproj.CoreCompileInputs.cache
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/GerenciamentoMemoria/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.AssemblyInfoInputs.cache
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/GerenciamentoMemoria/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.AssemblyInfo.cs
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/GerenciamentoMemoria/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.dll
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/GerenciamentoMemoria/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.pdb
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/GerenciamentoMemoria/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.genruntimeconfig.cache
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/Memory-Management/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria.exe
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/Memory-Management/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria.deps.json
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/Memory-Management/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria.runtimeconfig.json
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/Memory-Management/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria.runtimeconfig.dev.json
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/Memory-Management/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria.dll
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/Memory-Management/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria.pdb
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/Memory-Management/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.csprojAssemblyReference.cache
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/Memory-Management/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.csproj.CoreCompileInputs.cache
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/Memory-Management/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.AssemblyInfoInputs.cache
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/Memory-Management/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.AssemblyInfo.cs
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/Memory-Management/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.dll
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/Memory-Management/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.pdb
+C:/Users/Marcelo Drumm/Documents/Faculdade/SO/Memory-Management/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.genruntimeconfig.cache
+/home/user/Memory-Management/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria
+/home/user/Memory-Management/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria.deps.json
+/home/user/Memory-Management/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria.runtimeconfig.json
+/home/user/Memory-Management/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria.runtimeconfig.dev.json
+/home/user/Memory-Management/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria.dll
+/home/user/Memory-Management/GerenciamentoMemoria/bin/Debug/netcoreapp3.1/GerenciamentoMemoria.pdb
+/home/user/Memory-Management/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.csprojAssemblyReference.cache
+/home/user/Memory-Management/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.AssemblyInfoInputs.cache
+/home/user/Memory-Management/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.AssemblyInfo.cs
+/home/user/Memory-Management/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.csproj.CoreCompileInputs.cache
+/home/user/Memory-Management/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.dll
+/home/user/Memory-Management/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.pdb
+/home/user/Memory-Management/GerenciamentoMemoria/obj/Debug/netcoreapp3.1/GerenciamentoMemoria.genruntimeconfig.cache
