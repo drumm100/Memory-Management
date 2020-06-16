@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W89/HTzdoIPO61Gv/NzjC8Rbq0l2BIXeCyPxeysBM2QQxZ5GIHZfAfhOJ0SjWvr9A/ZdrFoQX7SyzTci/12aNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marcelo Drumm\\Documents\\Faculdade\\SO\\GerenciamentoMemoria\\GerenciamentoMemoria\\GerenciamentoMemoria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcelo Drumm\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.3\\microsoft.netcore.app.runtime.linux-x64.3.1.3.nupkg.sha512",
+    "C:\\Users\\Marcelo Drumm\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.3\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.3.nupkg.sha512",
+    "C:\\Users\\Marcelo Drumm\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.3\\microsoft.netcore.app.host.linux-x64.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
